@@ -1,16 +1,16 @@
 # calculator
 
-A new Flutter project.
+A calc app for pratice Dart and Flutter
 
-## Getting Started
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73727609/175565290-77878965-ddf5-43b5-ae77-6b943b48513e.png" width="350px" height ="650" />
+</div>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73727609/175565296-2d859e8e-3690-4b87-9435-74d8f727c162.png" width="350px" height ="650" />
+</div>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73727609/175565297-e211c40d-4aa4-4fe1-aa73-7de8b2cb840e.png" width="350px" height ="650" />
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
